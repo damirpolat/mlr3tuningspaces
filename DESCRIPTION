@@ -30,6 +30,8 @@ Suggests:
     glmnet (>= 4.1-2),
     kknn (>= 1.3.1),
     mlr3learners (>= 0.4.5),
+    mlr3extralearners (>= 0.7.1),
+    RWeka (>= 0.4-46),
     ranger (>= 0.12.1),
     rpart (>= 4.1-15),
     testthat (>= 3.0.0),
@@ -43,6 +45,7 @@ Collate:
     'TuningSpace.R'
     'bibentries.R'
     'sugar.R'
+    'tuning_spaces_autoweka.R'
     'tuning_spaces_default.R'
     'tuning_spaces_rbv1.R'
     'tuning_spaces_rbv2.R'
