@@ -30,5 +30,18 @@ bibentries = c(
     booktitle = "Proceedings of the 7th ICML Workshop on Automated Machine Learning (AutoML 2020)",
     date      = "2020",
     url       = "https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_63.pdf"
+  ),
+  
+  kotthoff_2017 = bibentry("article",
+    key     = "kotthoff_2017",
+    title   = "Auto-WEKA 2.0: Automatic model selection and hyperparameter optimization in WEKA",
+    author  = "Lars Kotthoff and Chris Thornton and Holger H. Hoos and Frank Hutter and Kevin Leyton-Brown",
+    year    = "2017",
+    journal = "Journal of Machine Learning Research",
+    volume  = "18",
+    number  = "25",
+    pages   = "1--5",
+    url     = "http://jmlr.org/papers/v18/16-261.html"
   )
+  
 )
